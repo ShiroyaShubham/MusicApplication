@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MusicApplication</string>
+    <string name="Browse">Browse</string>
+    <string name="Search">Search</string>
+    <string name="Recent">Recent</string>
+    <string name="Clear">Clear</string>
+</resources>
