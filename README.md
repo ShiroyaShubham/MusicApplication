@@ -11,11 +11,11 @@ This repository contains the user interface (UI) code for the Music App, a simpl
 
 ## Screenshots
 <div align="center">
-  <img src="HomeScreen.jpg" width="300" alt="Screenshot 1" style="margin-right: 20px;">
-  <img src="MusicPlay.jpg" width="300" alt="Screenshot 2" style="margin-right: 20px;">
-  <img src="Search.jpg" width="300" alt="Screenshot 3" style="margin-right: 20px;">
-  <img src="Playlist.jpg" width="300" alt="Screenshot 3" style="margin-right: 20px;">
-  <img src="RecentlyAdded.jpg" width="300" alt="Screenshot 3" style="margin-right: 20px;">
+  <img src="Screenshots/HomeScreen.jpg" width="300" alt="Screenshot 1" style="margin-right: 20px;">
+  <img src="Screenshots/MusicPlay.jpg" width="300" alt="Screenshot 2" style="margin-right: 20px;">
+  <img src="Screenshots/Search.jpg" width="300" alt="Screenshot 3" style="margin-right: 20px;">
+  <img src="Screenshots/Playlist.jpg" width="300" alt="Screenshot 3" style="margin-right: 20px;">
+  <img src="Screenshots/RecentlyAdded.jpg" width="300" alt="Screenshot 3" style="margin-right: 20px;">
 </div>
 
 
